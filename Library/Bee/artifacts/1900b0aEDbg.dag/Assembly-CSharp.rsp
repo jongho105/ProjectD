@@ -359,7 +359,6 @@
 "Assets/Script/Managers/ManagerInitiator/ManagerInitiator.cs"
 "Assets/Script/Managers/MonoBaseManager/MonoBaseManager.cs"
 "Assets/Script/Managers/ResourceManager/ResourceManager.cs"
-"Assets/Script/NewBehaviourScript.cs"
 "Assets/Script/Utility/FactoryUitility/FactoryUitility.cs"
 "Assets/Script/Utility/MathUtility/MathUtility.cs"
 -langversion:9.0
